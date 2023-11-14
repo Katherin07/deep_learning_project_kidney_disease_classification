@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Katherin07/deep_learning_project_kidney_disease_classification
+Author: Katherin07
+Author-email: katherine.rodriguez-s@hotmail.com
+Project-URL: Bug Tracker, https://github.com/Katherin07/deep_learning_project_kidney_disease_classification/issues
+
 # deep_learning_project_kidney_disease_classification
 
 # How to run?
